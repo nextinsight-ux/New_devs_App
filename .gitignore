@@ -1,0 +1,12 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local environment and tooling
+.env
+.venv/
+venv/
+*.log
+
+# Frontend build artifacts
+frontend/dist/
